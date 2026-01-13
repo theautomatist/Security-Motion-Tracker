@@ -102,6 +102,3 @@ src/app/            Flutter mobile app
 src/server/         PHP WebSocket server + web admin + docker setup
 src/cad/            CAD models for enclosures
 ```
-
-## License
-No license file is included yet. Add one if you plan to distribute or reuse the project.
